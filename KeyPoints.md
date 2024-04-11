@@ -16,7 +16,7 @@
 
 [Overview](#overview)
 
-[Environment Setup](#environment-setup)
+[Environment Setup](#architecture-and-environment-setup)
 
 [Tools and Techniques](#tools-and-techniques)
 
@@ -26,7 +26,11 @@
  * What is the purpose of the enumeration
  * creating the environement 
 
-# environment setup 
+# Architecture and Environment setup
+
+We require two server machines and one client machine. Utilize VMware and enable bridged networking for all of them. If any machine is on another laptop, bridge it and assign it an IP address within the same network as the other machines
+
+![Frame 1](https://github.com/Nirsen/Active-Directory-Enumeration/assets/88287290/c65ec16a-3316-40a6-b054-d1f739e73f6b)
 
 # Tools and Techniques  
 
