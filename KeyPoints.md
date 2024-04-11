@@ -28,9 +28,9 @@
  * What is the purpose of the enumeration
  * creating the environement 
 
-# environment setup <a name="environment-setup"></a>
+# environment setup 
 
-# Tools and Techniques  <a name="tools-and-techniques"></a>
+# Tools and Techniques  
 
 
 
