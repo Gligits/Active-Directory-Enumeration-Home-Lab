@@ -39,7 +39,7 @@ We require two server machines and one client machine. Utilize VMware and enable
   *  the ip adderss of the client should be in the same network as the father's ip adress
   *  the dns of the client is the ip address of the father
   *  testing the ping first
-  *  some problem that u can encounter :  if the ping doesnt work then checking the firewall if it accepts icmp analyse then checking that the two machines are uding the bridge , if the machines are on different hosts then checking the host firewall
+  *  some problem that u can encounter :  if the ping doesnt work then checking the firewall if it accepts icmp analyse then checking that the two machines are uding the bridge , if the machines are on different hosts then checking the host firewall, if u cretae a new client machine to enumerate verify that the time&date are synchronized with the other server machines so as u can enumerate the forest , when promoting a domain son as a subdomain of the father we enter the name_of_the_domain\Administrator
     
 ## adding the client to the server 
 
