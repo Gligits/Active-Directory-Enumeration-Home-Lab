@@ -30,7 +30,8 @@
 
 We require two server machines and one client machine. Utilize VMware and enable bridged networking for all of them. If any machine is on another laptop, bridge it and assign it an IP address within the same network as the other machines ( the host machine firewalls needs to be disabled )
 
-![Group 9](https://github.com/user-attachments/assets/f005ff5e-8046-4b49-83ef-d8e3b8f5124e)
+
+![Frame 1 (2)](https://github.com/user-attachments/assets/6c0ed96c-d0c2-43d5-8980-b1e5f738bab5)
 
 
 
