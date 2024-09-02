@@ -50,25 +50,24 @@ We require two server machines and one client machine. Utilize VMware and enable
 * Activating AD DS  on the servers 
 * Promoting the Parent Domain (Forest Root)
 * Promoting the Child Domain (Adding to the Forest)
-  **  Ensure the IP address of the client is within the same network as the parent domain's IP address.
-  ** Set the DNS of the client to the IP address of the parent domain.
-  ** Test the connectivity by pinging the parent domain.
+  -  Ensure the IP address of the client is within the same network as the parent domain's IP address.
+  - Set the DNS of the client to the IP address of the parent domain.
+  - Test the connectivity by pinging the parent domain.
 
-### Common Issues and Troubleshooting
+* Common Issues and Troubleshooting
 If the ping test fails:
-  * Check the firewall settings to ensure ICMP traffic is allowed.
-  * Verify that both machines are using the same network bridge.
-  * If the machines are on different hosts, check the host firewall settings.
-  * If a new client machine is created for the forest enumeration, ensure that the time and date are synchronized with the other server machines to allow proper forest enumeration.
-  * When promoting a child domain as a subdomain of the parent, use the format: name_of_the_domain\Administrator
+  - Check the firewall settings to ensure ICMP traffic is allowed.
+  - Verify that both machines are using the same network bridge.
+  - If the machines are on different hosts, check the host firewall settings.
+  - If a new client machine is created for the forest enumeration, ensure that the time and date are synchronized with the 
+    other server machines to allow proper forest enumeration.
+  - When promoting a child domain as a subdomain of the parent, use the format: name_of_the_domain\Administrator
 
     
-### adding the client to the server 
+* adding the client to the server 
 
+-> Note that the necessary  machines  should stay powered on when doing this operation
 
-
---> Note that the necessary  machines  should stay powered on when doing this operation
---> when using different machines 
 ![Frame 2 (1)](https://github.com/user-attachments/assets/6e017f77-e7cc-4955-8599-c36440c93e08)
 
 
