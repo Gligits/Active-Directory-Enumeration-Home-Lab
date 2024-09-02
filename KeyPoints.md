@@ -47,12 +47,12 @@ We require two server machines and one client machine. Utilize VMware and enable
 
 
 
-### Activating AD DS  on the servers 
-### Promoting the Parent Domain (Forest Root)
-### Promoting the Child Domain (Adding to the Forest)
-  *  Ensure the IP address of the client is within the same network as the parent domain's IP address.
-  * Set the DNS of the client to the IP address of the parent domain.
-  * Test the connectivity by pinging the parent domain.
+* Activating AD DS  on the servers 
+* Promoting the Parent Domain (Forest Root)
+* Promoting the Child Domain (Adding to the Forest)
+  **  Ensure the IP address of the client is within the same network as the parent domain's IP address.
+  ** Set the DNS of the client to the IP address of the parent domain.
+  ** Test the connectivity by pinging the parent domain.
 
 ### Common Issues and Troubleshooting
 If the ping test fails:
