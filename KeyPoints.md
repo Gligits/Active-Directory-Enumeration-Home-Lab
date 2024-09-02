@@ -30,7 +30,8 @@
 
 We require two server machines and one client machine. Utilize VMware and enable bridged networking for all of them. If any machine is on another laptop, bridge it and assign it an IP address within the same network as the other machines ( the host machine firewalls needs to be disabled )
 
-![Frame 1](https://github.com/Nirsen/Active-Directory-Enumeration/assets/88287290/c65ec16a-3316-40a6-b054-d1f739e73f6b)
+![Group 9](https://github.com/user-attachments/assets/f005ff5e-8046-4b49-83ef-d8e3b8f5124e)
+
 
 
 ### Activating AD DS  on the servers 
