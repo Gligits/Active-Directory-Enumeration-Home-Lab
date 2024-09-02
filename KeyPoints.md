@@ -57,7 +57,8 @@ If the ping test fails:
 
 --> Note that the necessary  machines  should stay powered on when doing this operation
 --> when using different machines 
-![Frame 2](https://github.com/Nirsen/Active-Directory-Enumeration/assets/88287290/5224a4fd-3bdb-40fc-bc90-3da77cb1d447)
+![Frame 2 (1)](https://github.com/user-attachments/assets/6e017f77-e7cc-4955-8599-c36440c93e08)
+
 
    
 # Tools and Techniques  
