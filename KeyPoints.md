@@ -49,7 +49,7 @@ If the ping test fails:
   * When promoting a child domain as a subdomain of the parent, use the format: name_of_the_domain\Administrator
 
     
-## adding the client to the server 
+### adding the client to the server 
 
 
 
