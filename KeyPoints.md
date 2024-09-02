@@ -22,9 +22,21 @@
 
 # Overview   
 
- * What is active directory
- * What is the purpose of the enumeration
- * creating the environement 
+ ### What is active directory
+ Active Directory (AD) is a directory service developed by Microsoft for Windows domain networks. 
+ It is a centralized database that manages and stores information about users, computers, and other resources within a 
+ network. 
+ AD allows administrators to manage permissions and control access to network resources. It also supports authentication and 
+ authorization, ensuring that only authorized users can access specific resources.
+ ### What is the purpose of the enumeration
+ Enumeration is the process of gathering information . The purpose of enumeration is to identify and list resources, such as 
+ user accounts, network shares, services, and other network components, which can then be used for further analysis or 
+ exploitation. 
+ In cybersecurity, enumeration is often used by attackers during the reconnaissance phase to identify potential 
+ vulnerabilities or entry points in a system.
+ ### creating the environement 
+ We’re going to create a lab environment where you can safely test and experiment with configurations/attacks. This setup 
+ will include virtual machines and network configurations, allowing us to simulate real-world scenarios.
 
 # Architecture and Environment setup
 
